@@ -1,0 +1,23 @@
+Metabolite,Volcano_Log2FC,Volcano_P_value,Volcano_Category,VIP_Score,Mirror_Mutant_FC,Mirror_Overexp_FC,Mirror_Opposite_Trend,Network_Degree
+Salicylate,0.49,6.508e-01,Not Significant,1.57,0.49,-1.06,True,0
+Malate,-0.14,7.263e-01,Not Significant,1.18,-0.14,0.62,True,4
+Ethanolamine,-1.01,5.990e-01,Not Significant,1.14,-1.01,2.80,True,0
+Glycine,-1.17,3.256e-01,Not Significant,1.13,-1.17,1.07,True,0
+GABA,-0.50,7.554e-01,Not Significant,1.11,-0.50,2.04,True,0
+Phosphoric acid,-0.18,8.620e-01,Not Significant,1.10,-0.18,1.54,True,1
+Pyroglutamate,-0.85,5.086e-01,Not Significant,1.10,-0.85,0.84,True,0
+Fumarate,-0.21,8.239e-01,Not Significant,1.09,-0.21,0.49,True,0
+Glucose-1-phosphate,-0.96,3.199e-01,Not Significant,1.08,-0.96,0.78,True,1
+Threonine,-0.23,6.356e-01,Not Significant,1.07,-0.23,0.60,True,0
+Sucrose,-0.40,6.365e-01,Not Significant,1.07,-0.40,0.26,True,0
+Lysine,-0.31,6.376e-01,Not Significant,1.06,-0.31,0.84,True,1
+Serine,-0.34,7.332e-01,Not Significant,1.02,-0.34,0.98,True,0
+Octadecanoate,-1.58,2.382e-01,Not Significant,1.00,-1.58,0.38,True,1
+Leucine,-0.83,3.098e-01,Not Significant,0.95,-0.83,0.45,True,0
+Glycerol,-0.71,5.153e-01,Not Significant,0.94,-0.71,0.77,True,0
+Trehalose,-0.09,8.818e-01,Not Significant,0.80,-0.09,0.65,True,0
+Succinate,-0.73,7.719e-02,Downregulated,1.92,-0.73,0.71,True,3
+Palmitate,-2.45,1.924e-01,Downregulated,1.18,-2.45,1.23,True,1
+Ribulose-5-phosphate,-0.56,1.162e-01,Downregulated,1.09,-0.56,0.12,True,0
+Erythritol,-0.28,1.197e-01,Downregulated,1.08,-0.28,0.06,False,3
+Ribitol,-0.95,1.451e-01,Downregulated,0.50,-0.95,-0.82,False,0
