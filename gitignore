@@ -1,0 +1,17 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+.DS_Store
+*.zip
+/content/MTBLS2289
